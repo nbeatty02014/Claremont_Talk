@@ -1,0 +1,51 @@
+
+
+/* Full-width input fields 
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}*/
+
+/*input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}*/
+
+/*hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+*/
+
+.bckgrnd {
+   text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family: "arial";
+}
+.msg {
+font-family: arial; background-color: #ccf6ff; margin-top: 30px;
+    margin-bottom: 30px; margin-right: 150px; margin-left: 100px;
+}
+
+  .button {
+    background-color: dodgerblue; /*blue */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button:hover {
+    opacity: 0.5;
+  }
+
+
